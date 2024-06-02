@@ -43,6 +43,10 @@
   <img src="https://i.imgur.com/gdzZztf.png" alt="dynastyoak" /> 
 </div>
 
+## Video Overview 🎥
+[![Oak Token Grabber V2](https://img.youtube.com/vi/_GD5mPN_URM/0.jpg)](https://www.youtube.com/watch?v=_GD5mPN_URM)
+
+
 ## Detections
 <div align="center">
   <a href="https://www.virustotal.com/gui/file/aabd1dbf1587decb0b77182eeb6403130827211e1d48ddc94258f78b3b8ad527?nocache=1"><img src="https://i.imgur.com/U09LMI1.png" alt="detections"/><a>
