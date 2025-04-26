@@ -65,6 +65,6 @@ Special thanks to [@nagogy](https://github.com/nagogy), [@addi00000](https://git
 
 
 ## Contact 
-<a href="https://t.me/trippiegasm" target="blank"><img align="center" src="https://imgur.com/a/ZijfN5I" alt="Telegram" height="30" width="40" /></a>
+<a href="https://t.me/trippiegasm" target="blank"><img align="center" src="https://imgur.com/a/ZijfN5I.png" alt="Telegram" height="30" width="40" /></a>
 
 Please ⭐ this repo
